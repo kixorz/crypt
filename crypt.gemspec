@@ -13,5 +13,5 @@ Gem::Specification.new do |gem|
   gem.test_files    = Dir["test/**/*"]
   gem.name          = "crypt"
   gem.require_paths = ["lib"]
-  gem.version       = crypt::VERSION
+  gem.version       = Crypt::VERSION
 end
